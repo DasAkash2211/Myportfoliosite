@@ -1,0 +1,76 @@
+AKASH DAS
+Software Developer | 5 Years Experience
+
+CONTACT
+Phone: +91 8583949391
+Email: ad22111997@gmail.com
+Location: Sukchar, Kolkata, West Bengal 700115
+
+PROFESSIONAL SUMMARY
+Passionate and skilled software developer with 5+ years of experience in full-stack web development. Specializing in PHP/Laravel, Python/Django, and React.js with expertise in designing scalable solutions.
+
+TECHNICAL SKILLS
+Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
+Backend: Core PHP, Laravel, Python, Django, RESTful APIs, MySQL
+Cloud Platforms: AWS S3, Cloudflare R2
+Payment Gateways: RazorPay, PayU, CashFree, Stripe
+APIs: Twilio, WhatsApp API, ShipRocket API
+
+EDUCATION
+B. Tech in Computer Science and Engineering
+JIS University | CGPA: 8.18
+
+WORK EXPERIENCE
+
+Axonbyte Technologies | FullStack Developer (Dec 2025 - Present)
+- Building scalable web applications using PHP/Laravel
+- Developing responsive interfaces with HTML, CSS, JavaScript
+- Database design and optimization with MySQL
+- Client relationship management and agile development
+
+Fashionsta Technologies | Technical Head (Mar 2025 - Dec 2025)
+- Led development team and managed technical strategy
+- Architected full-stack solutions using PHP, Python, and JavaScript
+- Established coding standards and development practices
+- Managed DevOps workflows and deployment pipelines
+
+FabHub Technologies | FullStack Developer (Oct 2024 - Feb 2025)
+- Developed e-commerce platform features for Showloom.com
+- Integrated payment gateways and third-party APIs
+- Optimized application performance and user experience
+- Collaborated with designers and product teams
+
+Pepex Private Limited | Software Developer (Jul 2021 - Sep 2024)
+- Developed 8+ live projects using PHP, Laravel, and Django
+- Built Online Exam Portal, HRMS, Project Management Portal
+- Implemented Interview Portal and Marketing applications
+- Followed agile practices and delivered solutions aligned with client needs
+
+Royal Research | Academic Researcher (Dec 2020 - Jun 2021)
+- Conducted software and technology research
+- Generated technical content and documentation
+- Developed small-scale software solutions
+
+Zensar Technologies | Associate Software Developer (Aug 2020 - Nov 2020)
+- Completed .NET development training
+- Developed and maintained web applications
+- Participated in code reviews and SDLC processes
+
+KEY ACHIEVEMENTS
+- Successfully deployed multiple production-grade applications
+- Integrated secure payment gateways for e-commerce platforms
+- Optimized application performance and scalability
+- Led technical team and established development standards
+- Published research on "Smart Voice Controlled Wheelchair"
+
+LANGUAGES
+Bengali (Fluent) | English (Fluent) | Hindi (Fluent) | French (Basics)
+
+WORKING PROJECTS
+https://showloom.com
+https://ohhbuddie.com
+https://auraithost.info
+https://app.richcarehomeopathy.in
+https://app.faceaxis.com
+
+This is a text version of the resume. For the full PDF version with formatting and details, please contact directly.
