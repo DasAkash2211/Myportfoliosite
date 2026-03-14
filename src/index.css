@@ -32,3 +32,4 @@ a[href*="bolt.diy"] {
     }
   }
 }
+a[href*="bolt.new"], a[href*="stackblitz.com"] { display: none !important; }
