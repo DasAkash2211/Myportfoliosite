@@ -9,13 +9,7 @@ html {
 body {
   overflow-x: hidden;
 }
-/* Hide Bolt badge */
-[class*="bolt-badge"],
-[id*="bolt-badge"],
-a[href*="bolt.new"],
-a[href*="bolt.diy"] {
-  display: none !important;
-}
+
 @layer utilities {
   .animate-fade-in {
     animation: fadeIn 1s ease-in;
@@ -32,4 +26,13 @@ a[href*="bolt.diy"] {
     }
   }
 }
-a[href*="bolt.new"], a[href*="stackblitz.com"] { display: none !important; }
+/* Remove Bolt Badge */
+body > a:last-of-type,
+body > div:last-of-type > a[href*="bolt"],
+iframe[src*="bolt"],
+[data-bolt-badge] {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
