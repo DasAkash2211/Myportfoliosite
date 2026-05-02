@@ -15,9 +15,9 @@ const projects = [
     tech: ['Laravel', 'AWS S3', 'Payment APIs', 'Cloudflare'],
   },
   {
-    title: 'Aurait Host',
-    description: 'Web hosting management platform with user-friendly admin dashboard and automated billing system.',
-    url: 'https://auraithost.info',
+    title: 'Eventpartywala',
+    description: 'Event planning and party management platform with vendor coordination, booking management, and real-time updates.',
+    url: 'https://eventpartywala.com',
     tech: ['PHP', 'Laravel', 'MySQL', 'RESTful APIs'],
   },
   {
