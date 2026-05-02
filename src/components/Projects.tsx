@@ -47,6 +47,18 @@ const projects = [
     description: 'Task management system with Kanban boards, role-based access, timeline tracking, and reporting tools.',
     tech: ['Laravel', 'Kanban', 'MySQL', 'RESTful APIs'],
   },
+  {
+    title: 'Kebabeana',
+    description: 'Full-featured mobile app for ordering kebab and quick-service meals with real-time order tracking, payment integration, and user reviews.',
+    url: 'https://kebabeana-iuzk3bvyb-dasakash2211s-projects.vercel.app/',
+    tech: ['React Native', 'Firebase', 'Payment Integration', 'Mobile App'],
+  },
+  {
+    title: 'Newsblitz',
+    description: 'Modern news aggregation platform delivering real-time news updates with category filtering, bookmarking, and responsive design.',
+    url: 'https://newsblitzz.vercel.app/',
+    tech: ['React', 'News API', 'Tailwind CSS', 'Vite'],
+  },
 ];
 
 const Projects = () => {
