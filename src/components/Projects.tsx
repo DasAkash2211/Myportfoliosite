@@ -3,18 +3,6 @@ import { ExternalLink, Code } from 'lucide-react';
 
 const projects = [
   {
-    title: 'Showloom.com',
-    description: 'E-commerce platform for fashion and lifestyle products with integrated payment gateways, real-time inventory management, and responsive design.',
-    url: 'https://showloom.com',
-    tech: ['Laravel', 'PHP', 'MySQL', 'Bootstrap', 'JavaScript'],
-  },
-  {
-    title: 'OhhBuddie',
-    description: 'Quick-commerce portal with AWS S3 integration for product images and multiple payment gateway integrations (PayU, RazorPay, CashFree).',
-    url: 'https://ohhbuddie.com',
-    tech: ['Laravel', 'AWS S3', 'Payment APIs', 'Cloudflare'],
-  },
-  {
     title: 'Eventpartywala',
     description: 'Event planning and party management platform with vendor coordination, booking management, and real-time updates.',
     url: 'https://eventpartywala.com',
@@ -33,6 +21,18 @@ const projects = [
     tech: ['Laravel', 'Authentication', 'MySQL', 'Security'],
   },
   {
+    title: 'Kebabeana',
+    description: 'Full-featured mobile app for ordering kebab and quick-service meals with real-time order tracking, payment integration, and user reviews.',
+    url: 'https://kebabeana-iuzk3bvyb-dasakash2211s-projects.vercel.app/',
+    tech: ['React Native', 'Firebase', 'Payment Integration', 'Mobile App'],
+  },
+  {
+    title: 'Newsblitz',
+    description: 'Modern news aggregation platform delivering real-time news updates with category filtering, bookmarking, and responsive design.',
+    url: 'https://newsblitzz.vercel.app/',
+    tech: ['React', 'News API', 'Tailwind CSS', 'Vite'],
+  },
+  {
     title: 'HRMS Portal',
     description: 'Comprehensive Human Resource Management System handling employee data, leave tracking, payroll processing, and admin dashboards.',
     tech: ['Laravel', 'PHP', 'MySQL', 'Dashboard'],
@@ -48,16 +48,16 @@ const projects = [
     tech: ['Laravel', 'Kanban', 'MySQL', 'RESTful APIs'],
   },
   {
-    title: 'Kebabeana',
-    description: 'Full-featured mobile app for ordering kebab and quick-service meals with real-time order tracking, payment integration, and user reviews.',
-    url: 'https://kebabeana-iuzk3bvyb-dasakash2211s-projects.vercel.app/',
-    tech: ['React Native', 'Firebase', 'Payment Integration', 'Mobile App'],
+    title: 'Showloom.com',
+    description: 'E-commerce platform for fashion and lifestyle products with integrated payment gateways, real-time inventory management, and responsive design.',
+    url: 'https://showloom.com',
+    tech: ['Laravel', 'PHP', 'MySQL', 'Bootstrap', 'JavaScript'],
   },
   {
-    title: 'Newsblitz',
-    description: 'Modern news aggregation platform delivering real-time news updates with category filtering, bookmarking, and responsive design.',
-    url: 'https://newsblitzz.vercel.app/',
-    tech: ['React', 'News API', 'Tailwind CSS', 'Vite'],
+    title: 'OhhBuddie',
+    description: 'Quick-commerce portal with AWS S3 integration for product images and multiple payment gateway integrations (PayU, RazorPay, CashFree).',
+    url: 'https://ohhbuddie.com',
+    tech: ['Laravel', 'AWS S3', 'Payment APIs', 'Cloudflare'],
   },
 ];
 
